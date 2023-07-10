@@ -1,0 +1,11 @@
+/home/isomerx/Desktop/code/vishdis/target/debug/deps/textwrap-ad88e2ec77adfff8.rmeta: /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/lib.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/indentation.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/word_separators.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/word_splitters.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/wrap_algorithms.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/line_ending.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/core.rs
+
+/home/isomerx/Desktop/code/vishdis/target/debug/deps/textwrap-ad88e2ec77adfff8.d: /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/lib.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/indentation.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/word_separators.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/word_splitters.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/wrap_algorithms.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/line_ending.rs /home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/core.rs
+
+/home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/lib.rs:
+/home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/indentation.rs:
+/home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/word_separators.rs:
+/home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/word_splitters.rs:
+/home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/wrap_algorithms.rs:
+/home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/line_ending.rs:
+/home/isomerx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.16.0/src/core.rs:
